@@ -12,6 +12,8 @@ Department of Fisheries Oceanography
 836 South Rodney French Boulevard
 New Bedford, MA 02744-1221 USA
 
+## Objectives
+
 ## Agenda
 
 ## Schedule
