@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Developers' Workshop 2018
 
-You can use the [editor on GitHub](https://github.com/admb-project/DevelopersWorkshop2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+** Date **
+August 13-17, 2018
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+** Location **
+University of Massachusetts Dartmouth
+School for Marine Science and Technology
+Department of Fisheries Oceanography
+836 South Rodney French Boulevard
+New Bedford, MA 02744-1221 USA
 
-### Markdown
+## Agenda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Schedule
 
-```markdown
-Syntax highlighted code block
+__Monday__
 
-# Header 1
-## Header 2
-### Header 3
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
 
-- Bulleted
-- List
+__Tuesday__
 
-1. Numbered
-2. List
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
 
-**Bold** and _Italic_ and `Code` text
+__Wednesday__
 
-[Link](url) and ![Image](src)
-```
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+__Thursday__
 
-### Jekyll Themes
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/admb-project/DevelopersWorkshop2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+__Friday__
 
-### Support or Contact
+__Time__ | __Activity__ | __Notes__
+--- | --- | ---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Participants
+
+__Name__ | __Attendance__ | __Affiliation__ | __Notes__
+--- | --- | --- | ---
