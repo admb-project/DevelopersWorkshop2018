@@ -1,10 +1,10 @@
 ## Developers' Workshop 2018
 
-** Date **
+**Date**
 
 August 13-17, 2018
 
-** Location **
+**Location**
 
 University of Massachusetts Dartmouth
 School for Marine Science and Technology
