@@ -1,9 +1,11 @@
 ## Developers' Workshop 2018
 
 ** Date **
+
 August 13-17, 2018
 
 ** Location **
+
 University of Massachusetts Dartmouth
 School for Marine Science and Technology
 Department of Fisheries Oceanography
